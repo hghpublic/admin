@@ -1,0 +1,3 @@
+= rsync
+
+https://wiki.ubuntuusers.de/rsync/

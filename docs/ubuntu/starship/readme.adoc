@@ -1,0 +1,5 @@
+= starship
+
+== starship
+
+https://starship.rs/

@@ -1,0 +1,9 @@
+= ex01
+
+----
+mkdir -p level1_{1..2}/level2_{1..2}/level3_{1..2}
+touch file0_{1..2}.txt
+touch level1_{1..2}/file1_{1..2}.txt
+touch level1_{1..2}/level2_{1..2}/file2_{1..2}.txt
+touch level1_{1..2}/level2_{1..2}/level3_{1..2}/file3_{1..2}.txt
+----
